@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/ic_camera"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_camera"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_camera"/>
+    
+    <item android:id="@+id/ic_gps_fix"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_gps_fix"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_gps_fix"/>
+
+    <item android:id="@+id/ic_compass"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_compass"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_compass"/>
+    
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/ic_txt_view"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"
+          android:gravity="center_vertical"
+          android:paddingLeft="10dp"
+          android:textSize="18sp"
+          android:textColor="#FFFFFF" />
+</menu>

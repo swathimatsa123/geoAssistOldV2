@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geo Assist</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="collectTxt">Collection</string>
+    <string name="viewTxt">View</string>
+    <string name="syncTxt">Sync</string>
+    <string name="lcEditTxt">Correct Location</string>
+    <string name="picBtnStr">Picture</string>
+    <string name="mapType">Map Layer</string>
+    <string name="okBtn">OK</string>
+    <string name="cnclBtn">Cancel</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_gps_fix">Fix GPS</string>
+    <string name="action_compass">Compass</string>
+    <string name="title_activity_compass">Strike Dip</string>
+    <string name="action_save">Save</string>
+    <string name="action_compass_fix">Fix Compass</string>
+    <string name="action_compass_adjust">Adjust Compass</string>
+    <string name="strikeTitle">Strike</string>
+    <string name="dipTitle">Dip</string>
+    <string name="allInfo">All</string>
+    <string name="lngTitle">Longitude</string>
+    <string name="latTitle">Latitude</string>
+    <string name="title_activity_compass_correction">CompassCorrection</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="declationTitle">Declanation</string>
+
+</resources>
